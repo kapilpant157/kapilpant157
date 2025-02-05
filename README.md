@@ -6,7 +6,7 @@ I am an Assistant Professor at the National Academy of Science and Technology, D
 🚀 Currently working on: Research in [mention any specific research you're focusing on]  
 🌱 Learning: [mention any new technologies or languages you're currently exploring]  
 ⚡ Fun fact: [something interesting about you, e.g., "I enjoy reading books on artificial intelligence and exploring new ways of improving tech education."]
--->  
+
 ## 🚀 Skills
 
 - **Languages:** Python, Java, C++, HTML, CSS, JavaScript
@@ -14,7 +14,7 @@ I am an Assistant Professor at the National Academy of Science and Technology, D
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS, Jenkins
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Other:** Machine Learning, Data Science, AI, REST APIs, GitHub Actions, Agile/Scrum
-<!--
+  
 ## 🔨 Projects
 
 ### [Research on Machine Learning in Education](https://github.com/kapildevpant/research-ml-education)
