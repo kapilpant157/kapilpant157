@@ -50,8 +50,9 @@ Feel free to contact me for collaboration, teaching queries, or any academic-rel
 - Email: kapilpant157@email.com
 - LinkedIn: [Kapil Dev Pant](https://www.linkedin.com/in/kapilpant157)
 - Twitter: [@kapilpant12](https://twitter.com/@kapilpant12)
-  
+<!--  
 ## 📊 GitHub Stats
 
 ![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapildevpant&show_icons=true&count_private=true&hide=prs)
+-->
 
