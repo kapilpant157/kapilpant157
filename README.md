@@ -44,13 +44,14 @@ I contribute to both academic research projects and open-source software. Some o
   -->
 ## 📬 Contact Me
 
-Feel free to reach out to me for collaboration, teaching queries, or any academic-related topics!
+Feel free to contact me for collaboration, teaching queries, or any academic-related topics!
 
+- Website: [Kapil Dev Pant](https://www.kapilpant157.com.np)
 - Email: kapilpant157@email.com
 - LinkedIn: [Kapil Dev Pant](https://www.linkedin.com/in/kapilpant157)
 - Twitter: [@kapilpant12](https://twitter.com/@kapilpant12)
-<!--
+  
 ## 📊 GitHub Stats
 
 ![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapildevpant&show_icons=true&count_private=true&hide=prs)
--->
+
